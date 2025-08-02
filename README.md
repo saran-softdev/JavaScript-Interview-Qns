@@ -1,4 +1,3 @@
-# JavaScript-Interview-Qns
 # JavaScript Interview Questions & Answers
 
 
